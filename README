@@ -1,0 +1,14 @@
+This is a program I wrote a few years ago to extract graphics and sound data
+from Humongous Entertainment games. I had even less of a grasp of good coding
+style and practices then than I do now, so the whole thing is quite atrocious --
+nonsensical class structure, homebrew utilities instead of libraries for
+exporting graphics, the works. I also developed it without reference to
+ScummVM's source as a "personal challenge", so some things aren't even
+implemented correctly. I've tested it on the most common releases of pretty much
+every game Humongous made, though, so it should work unless you're trying to
+extract data from something exotic. See readme.txt for the explanation of the
+program that was included with the original release.
+
+For licensing purposes, everything here is GNU GPL3. Whatever DrMcCoy may think,
+I maintain that this is not worth the trouble of copy-pasting a big ugly legal
+notice.
